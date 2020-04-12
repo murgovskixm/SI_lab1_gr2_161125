@@ -1,0 +1,5 @@
+162201, Ivan, Stavreski, 6, 7, 8, 9
+163334, Martin, Simonoski, 5, 7, 8, 10
+160222, Ivana, Gorichan, 7, 8, 9, 10
+140222, Filip, Ivanov, 6, 6, 6, 6
+171220, Jovan, Ivanoski, 9, 9, 9, 9
