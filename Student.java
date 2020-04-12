@@ -10,12 +10,14 @@ class Student {
 		this.lastName = lastName;
 	}
 	//TODO seters & getters
+public void set{}
+public String get{}
 
 	public double getAverage() {
-		return ;
+		return average;
 	}
 
 	public int ECTSCredits() {
-		return ;
+		return credits;
 	}
 }
